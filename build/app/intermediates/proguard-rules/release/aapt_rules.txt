@@ -1,0 +1,8 @@
+# Referenced at /Users/macbookpro/FlutterProject/flutter_social_ui-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/macbookpro/FlutterProject/flutter_social_ui-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:29
+-keep class com.example.flutter_social_ui.MainActivity { <init>(); }
+# Referenced at /Users/macbookpro/FlutterProject/flutter_social_ui-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /Users/macbookpro/FlutterProject/flutter_social_ui-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:71
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }

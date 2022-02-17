@@ -1,0 +1,4 @@
+#Mon Feb 14 12:02:02 WIB 2022
+base.0=/Users/macbookpro/FlutterProject/flutter_social_ui-main/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,4 @@
+#Mon Feb 14 12:13:21 WIB 2022
+base.0=/Users/macbookpro/FlutterProject/flutter_social_ui-main/build/app/intermediates/transforms/r8/release/0/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
